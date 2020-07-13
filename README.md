@@ -15,3 +15,5 @@ Look for meal recipes, choose your favorite meals!
 **Favorites**: A meal can be added to favorites using *FloatingActionButton* on the screen of each meal
 
 **Filters**: Filter your meals for *gluten-free*, *lactose-free*, *vegetarian* and *vegan*!
+
+**Tabs**: Tabs sceen to choose between *Favorites* screen and *Categories* screen
