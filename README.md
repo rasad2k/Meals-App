@@ -10,6 +10,8 @@ Look for meal recipes, choose your favorite meals!
 
 **Drawer**: A Drawer to choose between favorites and all meals
 
+**Categories**: Categories for different meal types
+
 **Meals**: A screen dedicated to each meal about its recipe
 
 **Favorites**: A meal can be added to favorites using *FloatingActionButton* on the screen of each meal
